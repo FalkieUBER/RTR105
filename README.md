@@ -1,14 +1,15 @@
 # RTR105
-Studiju kursa Datormācība (pamatkurss) elektroniskā klade
 
-## 1. nodarbības "Atziņas"
+##Studiju kursa Datormācība (pamatkurss) elektroniskā klade
+
+### 1. nodarbības "Atziņas"
 Manas Linux pirmās izzinātas komandas:
 
-    1  VirtualBox --startvm XP
-    2  quartus
-    3  uname
-    4  uname -a
-    5  man uname
-    6  whoami -a
-    7  pwd
-    8  history
+    _ _1  VirtualBox --startvm XP
+    _ _2  quartus
+    _ _3  uname
+    _ _4  uname -a
+    _ _5  man uname
+    _ _6  whoami -a
+    _ _7  pwd
+    _ _8  history
