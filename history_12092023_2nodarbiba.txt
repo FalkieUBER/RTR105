@@ -1,0 +1,80 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  whoami
+    4  who
+    5  pwd
+    6  ls
+    7  man ls
+    8  ls -l
+    9  ls -l -t
+   10  history
+   11  ls -a
+   12  man a
+   13  man -a
+   14  man ls -a
+   15  ls -la
+   16  ls Desktop
+   17  ls Desktop/
+   18  -ls Desktop/
+   19  ls -ls Desktop/
+   20  clear
+   21  history
+   22  pwd
+   23  ls
+   24  ls /home
+   25  cd Music/
+   26  ls -la
+   27  pwd
+   28  cd .
+   29  cd ..
+   30  pwd
+   31  cd ..
+   32  pwd
+   33  cd
+   34  pwd
+   35  cd /
+   36  cd home/
+   37  cd user
+   38  cd ~
+   39  pwd
+   40  clear
+   41  ls -lt
+   42  mkdir ABC
+   43  ls -lt
+   44  ls -lt ABC/
+   45  ls -lta ABC/
+   46  cd ABC/
+   47  ls -lt
+   48  ls -lta
+   49  cd .
+   50  cd ..
+   51  touch abc.txt
+   52  ls -lt
+   53  echo La-la-la-lals -lt!
+   54  echo La-la-la-lalsecho La-la-la-lals -lt!!
+   55  echo La-la-la-lal!
+   56  echo 12345 > text_1.txt
+   57  ls -lt
+   58  cat text_1.txt
+   59  echo 678 >> text_1.txt
+   60  hexdump -C text_1.txt
+   61  cat text_1.txt
+   62  echo "12345"
+   63  echo "12345\n6789"
+   64  echo -e "12345\n6789"
+   65  echo -e "12345\n\t6789"
+   66  echo -e "12345\r6789"
+   67  echo -e "12345\r6789" > text_2.txt
+   68  hexdump -C text_2.txt
+   69  mkdir CDE
+   70  cp text_1.txt CD/
+   71  cp text_1.txt CDE/
+   72  ls -lt CDE/
+   73  pwd
+   74  mv CDE/text_1.txt CDE/text_3.txt
+   75  ls -lt CDE/
+   76  rm text_*.txt
+   77  ls a*c.d*
+   78  clear
+   79  history
+   80  history > history_12092023_2nodarbiba.txt
