@@ -1,0 +1,41 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  git --version
+    4  git clone https://github.com/FalkieUBER/RTR105
+    5  ls -lt
+    6  clear
+    7  ls -lt RTR105
+    8  ls -lt | grep RTR105
+    9  rmdir RTR105
+   10  man rdmir
+   11  man rmdir
+   12  rmdir RTR105 --ignore-fail-on-non-empty
+   13  rm RTR105
+   14  rm -r RTR105
+   15  y
+   16  yy
+   17  yyy
+   18  y
+   19  yy
+   20  y
+   21  yc
+   22  rm -rf RTR105
+   23  ls -lt
+   24  git clone https://github.com/FalkieUBER/RTR105
+   25  ls -lt
+   26  pwd
+   27  cd ~/RTR105
+   28  whoami
+   29  ls -l
+   30  ls -la
+   31  .git$ cat config
+   32  cd ~.gi
+   33  cd ~.git
+   34  cd ~/RTR105/.git
+   35  cat config
+   36  cat index
+   37  hexdump -C cofig
+   38  cd ..
+   39  cd ~/RTR105
+   40  history
+   41  history > history_19092023_3nodarbiba.txt 
