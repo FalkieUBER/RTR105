@@ -1,0 +1,58 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  nano 
+    4  nano first.c
+    5  ls -lt
+    6  first.c > Class_05
+    7  Class_05
+    8  cat
+    9  ls -lt
+   10  first.c > Class_05
+   11  cp frist.c second.c
+   12  cp first.c second.c
+   13  nano second.c
+   14  gcc second.c -o second.out
+   15  gcc first.c -o first.out
+   16  ls -lt
+   17  nano second.c
+   18  ./second.out 
+   19  cat second.c
+   20  nano second.c
+   21  cat second.c
+   22  ./second.out 
+   23  gcc second.c -o second.out
+   24  ./second.out 
+   25  echo $?
+   26  nano second.c
+   27  gcc second.c -o second.out
+   28  nano second.c
+   29  gcc second.c -o second.out
+   30  ./second.out 
+   31  nano second.c
+   32  gcc -Wall -save-temps second.c -o second.out
+   33  ls -lt
+   34  cat second.s
+   35  cat second.o
+   36  history | grep Wall
+   37  cd ..
+   38  cd ~/RTR
+   39  ls -lt
+   40  cd .
+   41  cd ..
+   42  ls -lt
+   43  cd ..
+   44  cd .
+   45  cd ..
+   46  cd .
+   47  cd
+   48  cd..
+   49  cd ..
+   50  ls -lt
+   51  cd user
+   52  ls -lt
+   53  git clone https://github.com/FalkieUBER/RTR105
+   54  ls -lt
+   55  cd RTR105/
+   56  ls -lt
+   57  nano .gitignore
+   58  history > history 26092023

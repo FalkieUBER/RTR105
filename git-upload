@@ -2,6 +2,6 @@
 git add .
 git comfig --global user.name FalkieUBER
 git config --global user.email stivens.kokainis@edu.rtu.lv
-git commit -m "Class_4a"
+git commit -m "Class_5a"
 git push origin main
 
