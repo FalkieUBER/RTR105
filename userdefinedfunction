@@ -1,0 +1,39 @@
+#bez argumentiem un bez return
+def greet_user():
+    print("Sveiki, lietotāj!")
+
+#Main kods
+greet_user()
+
+#########
+#ar argumentiem un bez return
+def square_number(number):
+    print(f"Kvadrāts skaitlim {number} ir: {number**2}")
+
+#Main kods
+user_input = int(input("Ievadiet skaitli: "))
+square_number(user_input)
+
+
+###########
+#bez argumentiem un ar return
+def get_current_year():
+    import datetime
+    current_year = datetime.datetime.now().year
+    return current_year
+
+#Main kods
+year = get_current_year()
+print(f"Pašreizējais gads ir: {year}")
+
+#######
+#ar argumentiem un ar return
+def add_numbers(num1, num2):
+    result = num1 + num2
+    return result
+
+#Main kods
+num1 = int(input("Ievadiet pirmo skaitli: "))
+num2 = int(input("Ievadiet otro skaitli: "))
+sum_result = add_numbers(num1, num2)
+print(f"Summa ir: {sum_result}")
